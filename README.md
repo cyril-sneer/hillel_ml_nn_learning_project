@@ -1,2 +1,6 @@
 # hillel_ml_nn_learning_project
 Hillel Machine Learning Course - Neural Networks
+
+
+# Homework 14 - Introduction to Neural Networks
+14 Introduction to Neural Networks/Homework/Hillel_ML_NN_HW_14_MNIST_Classification.ipynb
