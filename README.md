@@ -10,3 +10,6 @@ Hillel Machine Learning Course - Neural Networks
 
 # Homework 18 - Recurrent Neural Networks
 18 RNN/Homework/Hillel_ML_NN_HW_18_RNN.ipynb
+
+# Homework 19 - Transformers
+19 Transformers/Homework/Hillel_ML_NN_HW_19_Transformers.ipynb
